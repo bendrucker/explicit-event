@@ -1,7 +1,7 @@
 {
   "name": "explicit-event",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Generate an explicit event interface from an EventEmitter",
   "license": "MIT",
   "repository": "bendrucker/explicit-event",
