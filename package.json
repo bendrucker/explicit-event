@@ -1,0 +1,29 @@
+{
+  "name": "explicit-event",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Generate an explicit event interface from an EventEmitter",
+  "license": "MIT",
+  "repository": "bendrucker/explicit-event",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "event",
+    "emitter",
+    "explicit",
+    "interface"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^5.0.0"
+  },
+  "files": [
+    "index.js"
+  ]
+}
