@@ -1,4 +1,4 @@
-# explicit-event [![Build Status](https://travis-ci.org/bendrucker/explicit-event.svg?branch=master)](https://travis-ci.org/bendrucker/explicit-event)
+# explicit-event [![Build Status](https://travis-ci.org/bendrucker/explicit-event.svg?branch=master)](https://travis-ci.org/bendrucker/explicit-event) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/explicit-event.svg)](https://greenkeeper.io/)
 
 > Generate an explicit event interface from an EventEmitter
 
